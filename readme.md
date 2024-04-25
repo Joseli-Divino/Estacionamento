@@ -6,7 +6,7 @@ Este projeto consiste em uma aplicação simples para controle de estacionamento
 
 1. Clone este repositório para o seu ambiente local:
 
-```git clone https://github.com/seu-usuario/controle-estacionamento.git```
+```git clone https://github.com/Joseli-Divino/Estacionamento.git```
 
 
 2. Navegue até o diretório do projeto:
